@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Refugios Bolson</string>
+    <string name="title_activity_maps_tipo">Map</string>
+    <string name="title_activity_ruta_hielo_azul">Map</string>
+    <string name="title_activity_ruta_cajon_azul">Map</string>
+    <string name="title_activity_ruta_cerro_lindo">Map</string>
+    <string name="title_activity_ruta_piltri">Map</string>
+    <string name="title_activity_ruta_motoco">Map</string>
+    <string name="title_activity_ruta_encanto">Map</string>
+</resources>

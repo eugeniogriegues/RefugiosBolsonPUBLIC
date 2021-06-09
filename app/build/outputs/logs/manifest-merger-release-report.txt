@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ca2b7c41aa224d1815961b0290b6e025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4f600fd10d4f2e19cec4b30023670463\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\6b5067c0c4fe75316a37e1eabfa7211e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3d5ae63ecfdd5b87655f2e39f4a81489\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\da4a4cc5b312ae87722fc53e72e04721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a4409492ef2bf5d39d19b12840387b74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f652a73696c48ccafaedf4ad8507451f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e80da98ced3f136e22199d04174b1b65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b8b9d86198a704aac37d609b1ff673a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f65e4e0b88f6021fe4876a74ea917413\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5a0b1ab5b12b9161319ce7015b939ee1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\427b6d67e8f5caf7a2459c7ff54a2235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a4467061382400b47d0accf323b8d620\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\edc325064b8d79ae9ae8cbf475ed770d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\48b67fc325a69b5d2ee9d2f816474e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d9e857def1856a96b548128e92d34c42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b4a9d3a27010a52ee1ad75adda2915c0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5a854d8112c58702c378278ecd1108c9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\513c66342894d06da1b486895c2f9bbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fcdd3786a93be9cec00df9bac43c28a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9cef24a577cf4c45a36797f18e14eda1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c3ffdda38beec1fa9876f949409624ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\91603c4dc9b2b2aae45024a32e6eff3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85cb9ab51b563ce66c771724b2b1ed9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d1364a70b1b3470d74e3c105e468f68e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c36a1911f773eae2cb171bd7851aa484\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e581d5a3cca0e22bcdf641ca2a7fa7e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\70acfb4692108e68e331a19c74b2f3db\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:13:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4f600fd10d4f2e19cec4b30023670463\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4f600fd10d4f2e19cec4b30023670463\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\6b5067c0c4fe75316a37e1eabfa7211e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\6b5067c0c4fe75316a37e1eabfa7211e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b4a9d3a27010a52ee1ad75adda2915c0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b4a9d3a27010a52ee1ad75adda2915c0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5a854d8112c58702c378278ecd1108c9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5a854d8112c58702c378278ecd1108c9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b4a9d3a27010a52ee1ad75adda2915c0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:16:9-40
+	android:roundIcon
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:15:9-39
+	android:allowBackup
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:30:13-58
+activity#google.maps.bolson.refugiosbolson.RutaEncanto
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:33:9-35:76
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:35:13-64
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:34:13-40
+activity#google.maps.bolson.refugiosbolson.RutaMotoco
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:36:9-38:66
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:38:13-63
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:37:13-39
+activity#google.maps.bolson.refugiosbolson.RutaPiltri
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:39:9-41:66
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:41:13-63
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:40:13-39
+activity#google.maps.bolson.refugiosbolson.RutaCerroLindo
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:42:9-44:71
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:43:13-43
+activity#google.maps.bolson.refugiosbolson.RutaCajonAzul
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:45:9-47:70
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:47:13-67
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:46:13-42
+activity#google.maps.bolson.refugiosbolson.RutaHieloAzul
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:48:9-50:70
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:50:13-67
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:49:13-42
+activity#google.maps.bolson.refugiosbolson.Info
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:51:9-53:72
+	android:theme
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:53:13-69
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:52:13-33
+activity#google.maps.bolson.refugiosbolson.MainActivity
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:54:9-60:20
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:54:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:58:27-74
+activity#google.maps.bolson.refugiosbolson.MapsTipo
+ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:61:9-63:64
+	android:label
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:63:13-61
+	android:name
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml:62:13-37
+uses-sdk
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ca2b7c41aa224d1815961b0290b6e025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ca2b7c41aa224d1815961b0290b6e025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4f600fd10d4f2e19cec4b30023670463\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4f600fd10d4f2e19cec4b30023670463\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\6b5067c0c4fe75316a37e1eabfa7211e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\6b5067c0c4fe75316a37e1eabfa7211e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3d5ae63ecfdd5b87655f2e39f4a81489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3d5ae63ecfdd5b87655f2e39f4a81489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\da4a4cc5b312ae87722fc53e72e04721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\da4a4cc5b312ae87722fc53e72e04721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a4409492ef2bf5d39d19b12840387b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a4409492ef2bf5d39d19b12840387b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f652a73696c48ccafaedf4ad8507451f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f652a73696c48ccafaedf4ad8507451f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e80da98ced3f136e22199d04174b1b65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e80da98ced3f136e22199d04174b1b65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b8b9d86198a704aac37d609b1ff673a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b8b9d86198a704aac37d609b1ff673a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f65e4e0b88f6021fe4876a74ea917413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f65e4e0b88f6021fe4876a74ea917413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5a0b1ab5b12b9161319ce7015b939ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5a0b1ab5b12b9161319ce7015b939ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\427b6d67e8f5caf7a2459c7ff54a2235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\427b6d67e8f5caf7a2459c7ff54a2235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a4467061382400b47d0accf323b8d620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a4467061382400b47d0accf323b8d620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\edc325064b8d79ae9ae8cbf475ed770d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\edc325064b8d79ae9ae8cbf475ed770d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\48b67fc325a69b5d2ee9d2f816474e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\48b67fc325a69b5d2ee9d2f816474e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d9e857def1856a96b548128e92d34c42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d9e857def1856a96b548128e92d34c42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b4a9d3a27010a52ee1ad75adda2915c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b4a9d3a27010a52ee1ad75adda2915c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5a854d8112c58702c378278ecd1108c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5a854d8112c58702c378278ecd1108c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\513c66342894d06da1b486895c2f9bbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\513c66342894d06da1b486895c2f9bbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fcdd3786a93be9cec00df9bac43c28a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fcdd3786a93be9cec00df9bac43c28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9cef24a577cf4c45a36797f18e14eda1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9cef24a577cf4c45a36797f18e14eda1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c3ffdda38beec1fa9876f949409624ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c3ffdda38beec1fa9876f949409624ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\91603c4dc9b2b2aae45024a32e6eff3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\91603c4dc9b2b2aae45024a32e6eff3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85cb9ab51b563ce66c771724b2b1ed9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\85cb9ab51b563ce66c771724b2b1ed9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d1364a70b1b3470d74e3c105e468f68e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d1364a70b1b3470d74e3c105e468f68e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c36a1911f773eae2cb171bd7851aa484\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c36a1911f773eae2cb171bd7851aa484\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e581d5a3cca0e22bcdf641ca2a7fa7e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e581d5a3cca0e22bcdf641ca2a7fa7e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\70acfb4692108e68e331a19c74b2f3db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\70acfb4692108e68e331a19c74b2f3db\AndroidManifest.xml:20:5-44
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		ADDED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APPS\REFUGIOS\RefugiosBolson\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\96e43d60fc72037141b2f71e2e05cea7\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\649f66304ac0081aebf73f4871e54e12\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\888e069d69007c1b9da674868329709c\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5678f2245e9c4d143854869fd3912c8f\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eugenio\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\51671b6ecb0d078cd4cdffc197ac04d7\AndroidManifest.xml:27:13-51
